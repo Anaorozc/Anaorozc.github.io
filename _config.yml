@@ -2,6 +2,7 @@ title: Ana Orozco
 logo: /images/20140824_194750.jpg
 #description:
 show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-dinky
+theme: jekyll-theme-architect
